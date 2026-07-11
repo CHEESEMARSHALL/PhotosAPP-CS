@@ -1,0 +1,6 @@
+{
+  "name": "WinUI Gallery Sync",
+  "description": "Seamlessly views and syncs photos with custom WinUI 3 Photos on your PC across the same network.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
